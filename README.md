@@ -24,3 +24,10 @@ Q8:Change Transform to _playerTransform.
 
 ### Activity 3
 https://docs.google.com/document/d/1rJZjsfrapfEXiIoCyWeU7D7RYfZo6qSiWjSRaLFgR84/edit?usp=sharing
+
+
+## W2
+
+
+### Activity 1
+![IMG_1962](https://github.com/user-attachments/assets/c99a5f8e-8d0b-4141-88e0-5bfff163556c)

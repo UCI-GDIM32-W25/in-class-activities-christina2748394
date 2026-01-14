@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1rJZjsfrapfEXiIoCyWeU7D7RYfZo6qSiWjSRaLFgR84/
 
 
 ### Activity 1
-[IMG_1962](https://github.com/user-attachments/assets/14d494ac-2bc0-4a6a-841f-59439c01cff7)
+![IMG_1962](https://github.com/user-attachments/assets/14d494ac-2bc0-4a6a-841f-59439c01cff7/images/png)
 
 ### Activity 2
 [commit](https://github.com/UCI-GDIM32-W25/uci-gdim32-mg2-MG2/commit/a80e485c69ecb0e156c861fd5ee24368596c7747)

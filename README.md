@@ -33,5 +33,8 @@ https://docs.google.com/document/d/1rJZjsfrapfEXiIoCyWeU7D7RYfZo6qSiWjSRaLFgR84/
 ![IMG_1962](https://github.com/user-attachments/assets/14d494ac-2bc0-4a6a-841f-59439c01cff7)
 
 ### Activity 2
+[commit]https://github.com/UCI-GDIM32-W25/uci-gdim32-mg2-MG2/commit/a80e485c69ecb0e156c861fd5ee24368596c7747
+
+Added the ground with Rigdbody and collider, Created the player GameObject with Rigdbody and collider. Added player script that allow player to jump when space is pressed.
 
 

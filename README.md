@@ -30,4 +30,8 @@ https://docs.google.com/document/d/1rJZjsfrapfEXiIoCyWeU7D7RYfZo6qSiWjSRaLFgR84/
 
 
 ### Activity 1
-![IMG_1962](https://github.com/user-attachments/assets/c99a5f8e-8d0b-4141-88e0-5bfff163556c)
+![IMG_1962](https://github.com/user-attachments/assets/14d494ac-2bc0-4a6a-841f-59439c01cff7)
+
+### Activity 2
+
+

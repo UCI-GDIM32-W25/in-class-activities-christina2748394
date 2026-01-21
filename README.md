@@ -44,3 +44,6 @@ Added the ground with Rigdbody and collider, Created the player GameObject with 
 ### Activity 0
 Isabel Matsuno, Zoya McDonnell 
 
+### Activity 3
+![IMG_2020](https://github.com/user-attachments/assets/31905258-f689-4a39-b25f-47c246d9fd0c)
+

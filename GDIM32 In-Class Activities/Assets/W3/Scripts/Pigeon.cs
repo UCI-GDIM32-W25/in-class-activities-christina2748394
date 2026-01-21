@@ -1,15 +1,15 @@
 using UnityEngine;
 
-public enum MovementState {
+public enum MovementState
+{
     Idle, Flying
 }
 
 public class Pigeon : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
+    private MovementState _currentState;
 
-    // (1) add a member variable to represent the Pigeon's state
-    
 
     void Update()
     {
@@ -20,9 +20,16 @@ public class Pigeon : MonoBehaviour
     // (2) fill in this method to update the pigeon's state based on input
     // if the player is pressing the 'A' key, the state should be set to Flying
     // - otherwise, it should be Idle
-    private void UpdateState ()
+    private void UpdateState()
     {
-        
+        if (Input.GetKey(KeyCode.A))
+        {
+            _currentState = MovementState.Flying;
+        }
+        else
+        {
+            _currentState = MovementState.Idle;
+        }
     }
 
     // (3) fill in this method to update the pigeon's animation based on its state
@@ -31,14 +38,25 @@ public class Pigeon : MonoBehaviour
     // use a Switch statement!
     private void UpdateAppearance()
     {
-        
+        switch (_currentState)
+        {
+            case MovementState.Flying:
+                PlayFlyAnimation();
+                break;
+            case MovementState.Idle:
+                PlayIdleAnimation();
+                break;
+        }
+
     }
 
-    private void PlayFlyAnimation () {
+    private void PlayFlyAnimation()
+    {
         _animator.SetBool("isFlying", true);
     }
 
-    private void PlayIdleAnimation () {
+    private void PlayIdleAnimation()
+    {
         _animator.SetBool("isFlying", false);
     }
 }

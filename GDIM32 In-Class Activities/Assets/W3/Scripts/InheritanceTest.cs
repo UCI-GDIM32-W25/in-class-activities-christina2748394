@@ -1,4 +1,4 @@
-/*
+
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -9,17 +9,17 @@ public class InheritanceTest : MonoBehaviour
 		Player player = new Player();
 		Enemy enemy = new Enemy();
 		Villager villager = new Villager();
-		
+
 		player.TalkToNpc(enemy);
 		player.TalkToNpc(villager);
 	}
 }
 
 // don't change anything about the Player class!
-public class Player 
+public class Player
 {
 	private string _name = "Travis";
-	public virtual void TalkToNpc (Npc npc)
+	public virtual void TalkToNpc(Npc npc)
 	{
 		npc.Talk(_name);
 	}
@@ -28,18 +28,26 @@ public class Player
 // don't change anything about the NPC class!
 public class Npc
 {
-	public virtual void Talk(string playerName) {}
+	public virtual void Talk(string playerName) { }
 }
 
 // CHANGE THINGS IN VILLAGER...
-public class Villager
+public class Villager : Npc
 {
-	
+	public override void Talk(string playerName)
+	{
+		Debug.Log("Hello, traveler! Welcome to our village.");
+
+
+	}
+
 }
 
 // CHANGE THINGS IN ENEMY...
-public class Enemy
+public class Enemy : Npc
 {
-	
+	public override void Talk(string playerName)
+	{
+		Debug.Log("Grrr... Stay away");
+	}
 }
-*/

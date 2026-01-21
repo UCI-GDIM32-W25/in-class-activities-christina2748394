@@ -38,3 +38,9 @@ https://docs.google.com/document/d/1rJZjsfrapfEXiIoCyWeU7D7RYfZo6qSiWjSRaLFgR84/
 Added the ground with Rigdbody and collider, Created the player GameObject with Rigdbody and collider. Added player script that allow player to jump when space is pressed.
 
 
+## W3
+
+
+### Activity 0
+Isabel Matsuno, Zoya McDonnell 
+

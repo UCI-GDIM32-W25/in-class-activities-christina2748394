@@ -10,12 +10,18 @@ public class W4VFX : MonoBehaviour
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
+    public void Start()
+    {
+        Locator.Instance.Pigeon.Cooed += HandlePigeonCoo;
+    }
+
+
 
 
 
 
     // don't change the code in this method!
-    public void HandlePigeonCoo ()
+    public void HandlePigeonCoo()
     {
         _pigeonSpotlight.SetActive(true);
 

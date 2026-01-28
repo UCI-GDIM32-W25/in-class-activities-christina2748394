@@ -61,6 +61,9 @@ Add multiple Locator objects to the Scene. What happens to the Locator objects w
 ### Activity 2
 ![IMG_2069](https://github.com/user-attachments/assets/c9ddd6a1-c159-4068-9d1c-b4a5cae2b165)
 
+### Activity 3
+https://github.com/UCI-GDIM32-W25/HW4/commit/b2e6e75ab6124a5301d83310c9f763c24b3fba96
+
 
 Only one Locator script remains, all others got deleted from the scene.
 

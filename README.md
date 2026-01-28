@@ -58,5 +58,9 @@ Isabel Matsuno, Zoya McDonnell
 ### Activity 1
 Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
 
+### Activity 2
+![IMG_2069](https://github.com/user-attachments/assets/c9ddd6a1-c159-4068-9d1c-b4a5cae2b165)
+
+
 Only one Locator script remains, all others got deleted from the scene.
 

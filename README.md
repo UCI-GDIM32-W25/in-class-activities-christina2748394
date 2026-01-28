@@ -47,3 +47,16 @@ Isabel Matsuno, Zoya McDonnell
 ### Activity 3
 ![IMG_2020](https://github.com/user-attachments/assets/31905258-f689-4a39-b25f-47c246d9fd0c)
 
+
+
+## W4
+
+
+### Activity 0
+Isabel Matsuno, Zoya McDonnell 
+
+### Activity 1
+Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
+
+Only one Locator script remains, all others got deleted from the scene.
+

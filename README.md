@@ -69,10 +69,12 @@ Only one Locator script remains, all others got deleted from the scene.
 
 
 ### Activity 1
+
 I think the design is a bit messy and hard to keep track of. I would first keep all the classes in seperate code fies, add member varible that all child class use in the parent class, also do not add function abstract parent that not all child will use(like break()).
 
 
 ### Activity 2
+
 Model: EnemyStats
 
 View: Player Sprites, Enemy Sprite, TextMeshPro
@@ -81,4 +83,19 @@ Controller: PlayerW5demo1.cs, PlayerW5demo2.cs, EmemyW5demo2.cs
 
 
 ### Activity 3
+
+Scenario 1
+
 ScriptableObject for beat stats of timming, speed and location. Inheritence with beat parent class that contains basic shared method like click(),  Singleton to call the event to update points and audio in different classes.
+
+Scenario 2
+Inheritence with parent class that have member variable of meshes, animations, health, and methods of movement, and attacks.
+
+Scenario 3
+Finite State Machine of plant as seeds, half-grown, fully-grown, also for player like walking, sleep, other aactions.
+
+### Activity 4
+
+Attendance
+
+Proposal: [Finial Project Proposal First Draft](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?usp=sharing)

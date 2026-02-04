@@ -63,7 +63,22 @@ Add multiple Locator objects to the Scene. What happens to the Locator objects w
 
 ### Activity 3
 https://github.com/UCI-GDIM32-W25/HW4/commit/b2e6e75ab6124a5301d83310c9f763c24b3fba96
-
-
 Only one Locator script remains, all others got deleted from the scene.
 
+## W5
+
+
+### Activity 1
+I think the design is a bit messy and hard to keep track of. I would first keep all the classes in seperate code fies, add member varible that all child class use in the parent class, also do not add function abstract parent that not all child will use(like break()).
+
+
+### Activity 2
+Model: EnemyStats
+
+View: Player Sprites, Enemy Sprite, TextMeshPro
+
+Controller: PlayerW5demo1.cs, PlayerW5demo2.cs, EmemyW5demo2.cs
+
+
+### Activity 3
+ScriptableObject for beat stats of timming, speed and location. Inheritence with beat parent class that contains basic shared method like click(),  Singleton to call the event to update points and audio in different classes.

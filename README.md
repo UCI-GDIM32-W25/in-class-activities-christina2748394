@@ -71,3 +71,14 @@ Only one Locator script remains, all others got deleted from the scene.
 ### Activity 1
 I think the design is a bit messy and hard to keep track of. I would first keep all the classes in seperate code fies, add member varible that all child class use in the parent class, also do not add function abstract parent that not all child will use(like break()).
 
+
+### Activity 2
+Model: EnemyStats
+
+View: Player Sprites, Enemy Sprite, TextMeshPro
+
+Controller: PlayerW5demo1.cs, PlayerW5demo2.cs, EmemyW5demo2.cs
+
+
+### Activity 3
+ScriptableObject for beat stats of timming, speed and location. Inheritence with beat parent class that contains basic shared method like click(),  Singleton to call the event to update points and audio in different classes.

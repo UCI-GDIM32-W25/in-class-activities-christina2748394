@@ -111,4 +111,4 @@ Talk 1: Writing, Cory Lanham
 
 Talk 2: Tech Art, Stephen Coan
 
-[Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing) (Tab2)

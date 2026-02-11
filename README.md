@@ -99,3 +99,16 @@ Finite State Machine of plant as seeds, half-grown, fully-grown, also for player
 Attendance
 
 Proposal: [Finial Project Proposal First Draft](https://docs.google.com/document/d/1uIzNYzqub1ZNOThv80_MUGNNVZO-v_ag4ytSKzIDOQY/edit?usp=sharing)
+
+## W6
+
+
+### GDW activity alternative
+
+Talk 1: Writing, Cory Lanham
+
+[Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing)
+
+Talk 2: Tech Art, Stephen Coan
+
+[Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing)

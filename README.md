@@ -125,7 +125,7 @@ Use a SphereCast for detecting collision so that
 Kristin Zhang, Isabel Matsuno, Zoya McDonnell 
 
 ### Activity 3
-[Image]()
+[Image](IMG_4759.webp)
 
 ### Activity 4
 [Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)

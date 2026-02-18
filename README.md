@@ -129,3 +129,6 @@ Kristin Zhang, Isabel Matsuno, Zoya McDonnell
 
 ### Activity 4
 [Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)
+
+### Activity 5
+[Commit](https://github.com/lindenreid/GDIM32-Final/commit/f125763007ff4881c0977967a1a5c43e7b9d27b9)

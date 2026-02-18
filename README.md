@@ -112,3 +112,20 @@ Talk 1: Writing, Cory Lanham
 Talk 2: Tech Art, Stephen Coan
 
 [Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing) (Tab2)
+
+
+## W6
+
+
+### Activity 1
+Use If statement and _getHitInfo to find player
+Use a SphereCast for detecting collision so that 
+
+### Activity 2
+Kristin Zhang, Isabel Matsuno, Zoya McDonnell 
+
+### Activity 3
+[Image]()
+
+### Activity 4
+[Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)

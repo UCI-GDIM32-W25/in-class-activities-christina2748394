@@ -114,7 +114,7 @@ Talk 2: Tech Art, Stephen Coan
 [Notes](https://docs.google.com/document/d/1V_M8Mk5mqqDHTHsPc3RZRKgqB2Bl16HvbS9HVl84Fko/edit?usp=sharing) (Tab2)
 
 
-## W6
+## W7
 
 
 ### Activity 1
@@ -127,8 +127,38 @@ Kristin Zhang, Isabel Matsuno, Zoya McDonnell
 ### Activity 3
 [Image](IMG_4759.webp)
 
+
+## W8
+
+
+### Activity 1
+ Rendering Pipeline
+ is the sequence of instructions for how everything is the game will be drawn to the screen
+Determines what shader will work in your project
+
+Unity 
+have built-in pipeline 
+Or scriptable rendering pipeline(URP)
+Edit-project settings-graphics is the scriptable render pipeline settings is empty, ur using the built-in pipeline
+Once u know, chek RP and unity version with asset down load
+E.g Toon shaders
+
+Post-processing
+Shader that apply to all object on the screen
+Install in project manager in unity
+Add post-process component to game object
+
+
+### Activity 2
+Kristin Zhang, Isabel Matsuno, Zoya McDonnell 
+
+### Activity 3
+Item can not be pick up again after dropped for one player.
+Can Add Jump Function to smooth movement.
+
 ### Activity 4
 [Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)
+I will work on adding a win screen today. Also basic quest system if have time.
 
 ### Activity 5
-[Commit](https://github.com/lindenreid/GDIM32-Final/commit/f125763007ff4881c0977967a1a5c43e7b9d27b9)
+[Commit](https://github.com/lindenreid/GDIM32-Final/commit/fc48c819113b7711310e273d11f7911d5927de1e)

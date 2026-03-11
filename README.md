@@ -187,3 +187,29 @@ Kristin Zhang, Isabel Matsuno, Zoya McDonnell
 
 ### Activity 5
 [Added a scene for Quest System Testing](https://github.com/lindenreid/GDIM32-Final/commit/5c5cdd2cd6997621cb8fb71c5944eb80eddd76e5)
+
+
+
+## W10
+
+
+
+### Activity 1
+Kristin Zhang, Isabel Matsuno, Zoya McDonnell 
+
+### Activity 2
+- Fix collision of tree(missing)
+- Player stuck in moutain area, terrain need fix, make player into capsule.
+- Cauldron too high and unable to put item in, maybe use mesh collider instead.
+
+fire for cauldrom
+smoke effect
+quest system
+
+### Activity 3
+[Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)
+
+### Activity 4
+[Add Basic Dialogue](https://github.com/lindenreid/GDIM32-Final/commit/1a0ab2bbfd50ec22c1f147d15aee124d0bb23700)
+
+

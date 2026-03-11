@@ -195,16 +195,14 @@ Kristin Zhang, Isabel Matsuno, Zoya McDonnell
 
 
 ### Activity 1
-Kristin Zhang, Isabel Matsuno, Zoya McDonnell 
+Kristin Zhang, Isabel Matsuno 
 
 ### Activity 2
 - Fix collision of tree(missing)
 - Player stuck in moutain area, terrain need fix, make player into capsule.
 - Cauldron too high and unable to put item in, maybe use mesh collider instead.
-
-fire for cauldrom
-smoke effect
-quest system
+- Add light cauldrom as fire, smoke effect?
+- Quest system need implement.
 
 ### Activity 3
 [Trello](https://trello.com/invite/b/69951f9470f5d644b5918ef4/ATTI40fab92b50d00e71951954e86fbe5014B7AA9F94/32-final)
